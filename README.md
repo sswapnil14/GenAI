@@ -1,1 +1,2 @@
-# GenAI-AgenticAI
+# GenAI and Agentic AI
+Stay tuned for an upcoming upload...
