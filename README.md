@@ -1,4 +1,4 @@
-# My GenAI work from Coursera course
+# GenAI Projects
 VAE and an Autoregressive Model  
 Prompt and LLM comparision  
 Perform Lightweight Fine-Tuning with LoRA  
