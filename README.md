@@ -9,3 +9,4 @@ Image generation with Stable Diffusion
 GAN, VAE, and Diffusion Models output comparision  
 Image Captioning and Classification with VLMs  
 Transcribe and Generate Audio with Whisper + TTS  
+VLM
